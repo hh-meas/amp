@@ -6,9 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "Audio Amp")
-		(date "2025-04-20")
-		(rev "1")
-		(company "Lucca, Marcel")
+		(date "2025-04-29")
+		(rev "1.1")
+		(company "Lucca Kuvecke, Marcel Tanneberger")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
@@ -3978,7 +3978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 130.81 77.47 0)
 			(effects
 				(font
@@ -4198,7 +4198,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 137.16 138.43 0)
 			(effects
 				(font
@@ -4711,7 +4711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 137.16 128.27 0)
 			(effects
 				(font
@@ -4998,7 +4998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 212.09 73.66 0)
 			(effects
 				(font
@@ -6082,7 +6082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 99.06 77.47 0)
 			(effects
 				(font
@@ -6237,7 +6237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 138.43 111.76 0)
 			(effects
 				(font
@@ -6952,7 +6952,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 116.84 50.8 0)
 			(effects
 				(font
@@ -7196,7 +7196,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 171.45 86.36 0)
 			(effects
 				(font
