@@ -1941,7 +1941,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Testpoints brauchen keinen Footprint."
+	(text "Ignorierte Wahrungen. \n- Vier Verbindungen an Komponenten => gewollt\n- Footprint passt nicht zu Type => überprüft\n"
 		(exclude_from_sim no)
 		(at 53.848 40.64 0)
 		(effects
@@ -3978,7 +3978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
 			(at 130.81 77.47 0)
 			(effects
 				(font
@@ -4198,7 +4198,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
 			(at 137.16 138.43 0)
 			(effects
 				(font
@@ -4711,7 +4711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
 			(at 137.16 128.27 0)
 			(effects
 				(font
@@ -4998,7 +4998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
 			(at 212.09 73.66 0)
 			(effects
 				(font
@@ -6082,7 +6082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
 			(at 99.06 77.47 0)
 			(effects
 				(font
@@ -6237,7 +6237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
 			(at 138.43 111.76 0)
 			(effects
 				(font
@@ -6952,7 +6952,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
 			(at 116.84 50.8 0)
 			(effects
 				(font
@@ -7196,7 +7196,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
 			(at 171.45 86.36 0)
 			(effects
 				(font
@@ -7698,7 +7698,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
 			(at 210.82 100.33 0)
 			(effects
 				(font
