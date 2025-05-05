@@ -3401,6 +3401,16 @@
 		)
 		(uuid "fafab7ed-47e9-485a-ab93-277c069d7176")
 	)
+	(label "GND"
+		(at 257.81 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ea88fe0d-c9a8-4b92-8660-d48adcc49404")
+	)
 	(symbol
 		(lib_id "Diode:SM4007")
 		(at 124.46 95.25 180)
