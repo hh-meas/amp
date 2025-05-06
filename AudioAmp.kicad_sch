@@ -1998,6 +1998,12 @@
 		(uuid "0cbcc4c9-823c-4778-bca9-0bb32256ad4a")
 	)
 	(junction
+		(at 74.93 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e20f67f-db4f-41ef-99f5-dfd0acafb1be")
+	)
+	(junction
 		(at 257.81 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2038,6 +2044,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31d6763e-a93e-4143-8ceb-a3abdbca1866")
+	)
+	(junction
+		(at 74.93 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "34b3417f-2d16-4989-9598-58fb9a1772b9")
 	)
 	(junction
 		(at 138.43 128.27)
@@ -2190,6 +2202,12 @@
 		(uuid "afc307ea-75a3-4bfd-aa49-05918154bfc2")
 	)
 	(junction
+		(at 49.53 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8fd6da1-e6fa-41a3-973b-120e214f83c4")
+	)
+	(junction
 		(at 111.76 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2256,6 +2274,12 @@
 		(uuid "e61805e1-b745-48f0-bad7-81c4b24de26f")
 	)
 	(junction
+		(at 93.98 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e9a1e4be-eef0-4a0e-aee6-1edee2c373c0")
+	)
+	(junction
 		(at 148.59 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2290,6 +2314,16 @@
 	(no_connect
 		(at 271.78 76.2)
 		(uuid "62e59179-2c8b-4452-9737-86bb3f9ffbc0")
+	)
+	(wire
+		(pts
+			(xy 74.93 133.35) (xy 74.93 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01f601c4-52e4-465e-9bf9-d7851d93d62b")
 	)
 	(wire
 		(pts
@@ -2340,6 +2374,16 @@
 			(type default)
 		)
 		(uuid "07f71e90-6a00-4d1d-887c-13385d35bb34")
+	)
+	(wire
+		(pts
+			(xy 93.98 138.43) (xy 132.08 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08cf6b97-fe73-492b-87e1-29ce8d564c90")
 	)
 	(wire
 		(pts
@@ -2423,6 +2467,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 125.73) (xy 49.53 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1800c6a7-410e-4e04-bbf9-efd2c9911d2a")
+	)
+	(wire
+		(pts
 			(xy 111.76 77.47) (xy 125.73 77.47)
 		)
 		(stroke
@@ -2463,7 +2517,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 105.41) (xy 74.93 138.43)
+			(xy 74.93 105.41) (xy 74.93 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2563,6 +2617,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 147.32) (xy 74.93 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30a0dccb-5a96-4f07-b25f-ca47e9e0deaa")
+	)
+	(wire
+		(pts
 			(xy 58.42 82.55) (xy 58.42 91.44)
 		)
 		(stroke
@@ -2590,6 +2654,16 @@
 			(type default)
 		)
 		(uuid "36148a17-232b-4097-941e-b68f33468bbe")
+	)
+	(wire
+		(pts
+			(xy 91.44 153.67) (xy 93.98 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3757c66e-4087-44e9-8768-19b92e84ae7b")
 	)
 	(wire
 		(pts
@@ -2653,7 +2727,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 113.03) (xy 58.42 113.03)
+			(xy 33.02 113.03) (xy 49.53 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2733,7 +2807,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 138.43) (xy 132.08 138.43)
+			(xy 74.93 138.43) (xy 93.98 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2863,6 +2937,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 147.32) (xy 74.93 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c89110a-71ba-44f1-a757-e26b3d63831d")
+	)
+	(wire
+		(pts
 			(xy 177.8 81.28) (xy 179.07 81.28)
 		)
 		(stroke
@@ -2910,6 +2994,16 @@
 			(type default)
 		)
 		(uuid "8879d7c5-8540-4a46-9e18-69cc320b7390")
+	)
+	(wire
+		(pts
+			(xy 49.53 113.03) (xy 58.42 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89889f90-c886-4506-a817-8299b1a2a82e")
 	)
 	(wire
 		(pts
@@ -2970,6 +3064,16 @@
 			(type default)
 		)
 		(uuid "977b9d77-353c-486c-b3a8-ff7868a2901b")
+	)
+	(wire
+		(pts
+			(xy 62.23 133.35) (xy 74.93 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b6343a6-0433-43e1-b496-977fc538c249")
 	)
 	(wire
 		(pts
@@ -3223,6 +3327,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 153.67) (xy 93.98 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "debb443f-eb26-458a-baf7-0827e2f3ebb0")
+	)
+	(wire
+		(pts
 			(xy 148.59 120.65) (xy 148.59 138.43)
 		)
 		(stroke
@@ -3410,6 +3524,71 @@
 			(justify left bottom)
 		)
 		(uuid "ea88fe0d-c9a8-4b92-8660-d48adcc49404")
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 88.9 153.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "08323f72-3745-44ef-b6f3-4cc22b4d1f53")
+		(property "Reference" "MNT4"
+			(at 87.63 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 87.63 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 88.9 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 88.9 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 88.9 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e28df9dc-40f1-429a-9de5-5f11c2b78701")
+		)
+		(instances
+			(project "AudioAmp"
+				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
+					(reference "MNT4")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Diode:SM4007")
@@ -3988,7 +4167,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm-breiter-silk"
 			(at 130.81 77.47 0)
 			(effects
 				(font
@@ -4199,7 +4378,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm-breiter-silk"
 			(at 137.16 138.43 0)
 			(effects
 				(font
@@ -4411,6 +4590,71 @@
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
 					(reference "Q12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 63.5 147.32 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "3a48d141-2605-4af0-b4a1-cac5d5bdb6d4")
+		(property "Reference" "MNT3"
+			(at 62.23 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 62.23 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 63.5 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 63.5 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7f0f38f9-c764-44f6-8aa9-030d809f5f3f")
+		)
+		(instances
+			(project "AudioAmp"
+				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
+					(reference "MNT3")
 					(unit 1)
 				)
 			)
@@ -4703,7 +4947,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm-breiter-silk"
 			(at 137.16 128.27 0)
 			(effects
 				(font
@@ -4914,7 +5158,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm-breiter-silk"
 			(at 212.09 73.66 0)
 			(effects
 				(font
@@ -5249,6 +5493,71 @@
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 46.99 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "636f3e44-7d9b-47bf-b393-3ab03b3a9395")
+		(property "Reference" "MNT1"
+			(at 45.72 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 45.72 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 46.99 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 46.99 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 46.99 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9534a229-a49f-4fa6-baf9-0263148feb85")
+		)
+		(instances
+			(project "AudioAmp"
+				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
+					(reference "MNT1")
 					(unit 1)
 				)
 			)
@@ -5989,7 +6298,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm-breiter-silk"
 			(at 99.06 77.47 0)
 			(effects
 				(font
@@ -6135,13 +6444,12 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm-breiter-silk"
 			(at 138.43 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
@@ -6169,6 +6477,71 @@
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
 					(reference "TP10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 59.69 133.35 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "91a398b1-c86c-4501-bec7-f2b7c14f6377")
+		(property "Reference" "MNT2"
+			(at 58.42 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 58.42 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 59.69 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 59.69 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 59.69 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1fc67ccc-b72c-48a7-8efa-1462282167f2")
+		)
+		(instances
+			(project "AudioAmp"
+				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
+					(reference "MNT2")
 					(unit 1)
 				)
 			)
@@ -6840,7 +7213,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm-breiter-silk"
 			(at 116.84 50.8 0)
 			(effects
 				(font
@@ -7075,7 +7448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm-breiter-silk"
 			(at 171.45 86.36 0)
 			(effects
 				(font
@@ -7568,7 +7941,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm-breiter-silk"
 			(at 210.82 100.33 0)
 			(effects
 				(font
@@ -7635,7 +8008,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm-breiter-silk"
 			(at 232.41 78.74 0)
 			(effects
 				(font
