@@ -2440,7 +2440,7 @@
 		(descr "SMD rectangular pad as test Point, square 2.0mm side length")
 		(tags "test point SMD pad rectangle square")
 		(property "Reference" "TP10"
-			(at 0 -1.998 0)
+			(at 0 2.3 0)
 			(layer "F.SilkS")
 			(uuid "90fe28a6-740e-4178-9e4e-dc17839a40a7")
 			(effects
