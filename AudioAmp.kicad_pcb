@@ -117,7 +117,7 @@
 		(at 70 122.5)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "MNT4"
+		(property "Reference" "MNT / GND"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "dfc37c4c-a246-41d9-8fe4-448af88d1f85")
@@ -222,8 +222,8 @@
 		(at 175.25 92.5)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "H3"
-			(at 0 -3.5 0)
+		(property "Reference" "VCC+"
+			(at -4.562 -2.584 0)
 			(layer "F.SilkS")
 			(uuid "f727dc69-75bb-4d34-a623-a2abc3daf6ea")
 			(effects
@@ -949,7 +949,7 @@
 		(descr "SMD rectangular pad as test Point, square 2.0mm side length")
 		(tags "test point SMD pad rectangle square")
 		(property "Reference" "TP9"
-			(at 0 -1.998 0)
+			(at 2.436 -2.136 0)
 			(layer "F.SilkS")
 			(uuid "638e95d6-a8c1-40e8-b54a-0728360eb499")
 			(effects
@@ -1109,8 +1109,8 @@
 		(at 182.25 92.5)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "H8"
-			(at 0 -3.5 0)
+		(property "Reference" "Tip-Out"
+			(at -2.418 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "24a3a924-43ae-4816-a0ce-3baa0f26e346")
 			(effects
@@ -1214,8 +1214,8 @@
 		(at 166 123)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "H4"
-			(at 4.4 -0.2 0)
+		(property "Reference" "VCC-"
+			(at 5.196 -0.064 0)
 			(layer "F.SilkS")
 			(uuid "46908007-4cfd-418b-acc2-5c1697e2f975")
 			(effects
@@ -1990,7 +1990,7 @@
 		(at 188.75 92.5)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "H1"
+		(property "Reference" "Rear-OUT"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "b82c8a83-ae31-4890-8f28-e130bf15d2e0")
@@ -2308,7 +2308,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q12"
-			(at -3.1625 -2.6 0)
+			(at 0.8895 -2.86 0)
 			(layer "F.SilkS")
 			(uuid "36be009e-2587-4959-b191-20ac031d8b64")
 			(effects
@@ -2705,8 +2705,8 @@
 		(at 205 122.5)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "MNT3"
-			(at 0 -3.5 0)
+		(property "Reference" "MNT / GND"
+			(at -0.784 -4.136 0)
 			(layer "F.SilkS")
 			(uuid "6d4227c2-66fd-41ee-87f0-5fdd206d76a6")
 			(effects
@@ -2811,7 +2811,7 @@
 		(descr "SMD rectangular pad as test Point, square 2.0mm side length")
 		(tags "test point SMD pad rectangle square")
 		(property "Reference" "TP4"
-			(at 0 -1.998 0)
+			(at 2.956 1.004 0)
 			(layer "F.SilkS")
 			(uuid "2618fa1c-3c95-464a-833f-0c562ddc937d")
 			(effects
@@ -3420,7 +3420,7 @@
 		(at 79.75 122.25)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "H5"
+		(property "Reference" "GND"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "53e86016-b6ff-46ba-a5b9-c21953d55b37")
@@ -5381,7 +5381,7 @@
 		(at 92.75 122.25)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "H2"
+		(property "Reference" "Tip-IN"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "854954bd-e393-416c-87e0-692e144178bc")
@@ -5486,8 +5486,8 @@
 		(at 205 92.5)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "MNT2"
-			(at 0 -3.5 0)
+		(property "Reference" "MNT / GND"
+			(at -0.784 3.512 0)
 			(layer "F.SilkS")
 			(uuid "240a6af2-4362-4d4f-83c9-6c110bedbe2e")
 			(effects
@@ -5495,6 +5495,7 @@
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify top)
 			)
 		)
 		(property "Value" "GND"
@@ -5913,8 +5914,8 @@
 		(at 158 123)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "H7"
-			(at 3.9 0 0)
+		(property "Reference" "GND"
+			(at 2.528 -3.62 0)
 			(layer "F.SilkS")
 			(uuid "d97973fd-12a1-4dbc-af75-eb7605141e3b")
 			(effects
@@ -6439,11 +6440,11 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "a8a42b4e-f185-47d9-a739-2051dcfc2a50")
-		(at 162.275 91 180)
+		(at 161.2 91.7 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C9"
-			(at 0 -1.43 0)
+			(at 2.375 0 180)
 			(layer "F.SilkS")
 			(uuid "605a7fb0-7b2d-4680-aa41-29c2c56b26a2")
 			(effects
@@ -6454,7 +6455,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.43 0)
+			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "5f09600a-8619-46ed-ba12-4bdecf84ab4b")
 			(effects
@@ -6465,7 +6466,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "78263420-2f30-4cad-a94f-cef3a10333f6")
@@ -6477,7 +6478,7 @@
 			)
 		)
 		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1f4b2832-37bf-4937-b8b9-fe31e31d996d")
@@ -6489,7 +6490,7 @@
 			)
 		)
 		(property "MPN" "C14663"
-			(at 0 0 180)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -6654,7 +6655,7 @@
 		(at 86.25 122.25)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "H9"
+		(property "Reference" "Rear-IN"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "aced503b-c79b-4e8a-bceb-6b03e114d0b8")
@@ -6759,8 +6760,8 @@
 		(at 70.024 92.503)
 		(descr "Mounting Hole 2.5mm")
 		(tags "mounting hole 2.5mm")
-		(property "Reference" "MNT1"
-			(at 0 -3.5 0)
+		(property "Reference" "MNT / GND"
+			(at 0.08 3.509 0)
 			(layer "F.SilkS")
 			(uuid "2034bf65-8677-49aa-9d61-aa48373d4c1b")
 			(effects
@@ -6865,7 +6866,7 @@
 		(descr "SMD rectangular pad as test Point, square 2.0mm side length")
 		(tags "test point SMD pad rectangle square")
 		(property "Reference" "TP5"
-			(at 0 -1.998 0)
+			(at 0 -2.1 0)
 			(layer "F.SilkS")
 			(uuid "63ac110a-2a75-4985-82a6-4078cda060ae")
 			(effects
@@ -8246,8 +8247,8 @@
 		(at 182.3 101.07)
 		(descr "Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose with efficient chassis ground connection, T+R+S normalling contact, https://www.neutrik.com/en/product/nrj6hm-1")
 		(tags "neutrik jack slim")
-		(property "Reference" "J2"
-			(at 9.5 -4.37 0)
+		(property "Reference" "Jack-OUT"
+			(at 10.232 -4.042 0)
 			(layer "F.SilkS")
 			(uuid "200fdede-f62a-4cd3-b62b-a0f88060bb00")
 			(effects
@@ -8804,8 +8805,8 @@
 		(at 195 93)
 		(descr "SMD rectangular pad as test Point, square 2.0mm side length")
 		(tags "test point SMD pad rectangle square")
-		(property "Reference" "TP8"
-			(at 0 -1.998 0)
+		(property "Reference" "GND"
+			(at 0 -2.068 0)
 			(layer "F.SilkS")
 			(uuid "42913437-eae7-4c2e-8ad4-e63f37a0f1df")
 			(effects
@@ -9712,7 +9713,7 @@
 		(descr "SMD rectangular pad as test Point, square 2.0mm side length")
 		(tags "test point SMD pad rectangle square")
 		(property "Reference" "TP2"
-			(at 0 -1.998 0)
+			(at -0.128 -1.998 0)
 			(layer "F.SilkS")
 			(uuid "2b4a1d23-66a3-4a88-92f6-11ccfef6770a")
 			(effects
@@ -9872,7 +9873,7 @@
 		(at 92.5 112.5 180)
 		(descr "Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose with efficient chassis ground connection, T+R+S normalling contact, https://www.neutrik.com/en/product/nrj6hm-1")
 		(tags "neutrik jack slim")
-		(property "Reference" "J1"
+		(property "Reference" "Jack-IN"
 			(at 6.4 15.6 0)
 			(layer "F.SilkS")
 			(uuid "0881aa23-227f-4500-8010-76b932a3f4cb")
