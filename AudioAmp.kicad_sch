@@ -4015,15 +4015,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C9900045500"
-			(at 125.73 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "28649e2e-b545-40d6-90fe-c773b8413cb1")
 		)
@@ -4227,15 +4218,6 @@
 			)
 		)
 		(property "Description" "JIALICHUANG SMT TestPoint"
-			(at 132.08 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C9900045500"
 			(at 132.08 138.43 0)
 			(effects
 				(font
@@ -4748,15 +4730,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C9900045500"
-			(at 132.08 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "d8af2e63-5a5f-46e9-8e2e-8c6412225ad0")
 		)
@@ -4961,15 +4934,6 @@
 		)
 		(property "Description" "JIALICHUANG SMT TestPoint"
 			(at 212.09 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C9900045500"
-			(at 212.09 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6052,15 +6016,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C9900045500"
-			(at 93.98 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "51e6db89-b3d0-4e6d-a134-b95eb7d867a0")
 		)
@@ -6199,15 +6154,6 @@
 			)
 		)
 		(property "Description" "JIALICHUANG SMT TestPoint"
-			(at 133.35 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C9900045500"
 			(at 133.35 111.76 0)
 			(effects
 				(font
@@ -6921,15 +6867,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C9900045500"
-			(at 111.76 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "8bbf9807-7b2a-409d-be59-a3a71674b481")
 		)
@@ -7158,15 +7095,6 @@
 		)
 		(property "Description" "JIALICHUANG SMT TestPoint"
 			(at 171.45 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C9900045500"
-			(at 171.45 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7667,15 +7595,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C9900045500"
-			(at 210.82 95.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4e7e07db-1d87-43dc-9829-418b6168d044")
 		)
@@ -7735,15 +7654,6 @@
 			)
 		)
 		(property "Description" "JIALICHUANG SMT TestPoint"
-			(at 227.33 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C9900045500"
 			(at 227.33 78.74 0)
 			(effects
 				(font
