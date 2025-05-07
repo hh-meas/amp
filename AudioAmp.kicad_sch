@@ -3519,7 +3519,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "08323f72-3745-44ef-b6f3-4cc22b4d1f53")
-		(property "Reference" "MNT4"
+		(property "Reference" "MNT/GND4"
 			(at 87.63 147.32 90)
 			(effects
 				(font
@@ -3568,7 +3568,7 @@
 		(instances
 			(project "AudioAmp"
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "MNT4")
+					(reference "MNT/GND4")
 					(unit 1)
 				)
 			)
@@ -3679,7 +3679,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0f29c4f3-792a-4bac-a53c-6032995411db")
-		(property "Reference" "H8"
+		(property "Reference" "Tip-OUT1"
 			(at 265.43 73.6599 0)
 			(effects
 				(font
@@ -3730,7 +3730,7 @@
 		(instances
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "H8")
+					(reference "Tip-OUT1")
 					(unit 1)
 				)
 			)
@@ -3746,7 +3746,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1501d8c5-b28d-4afc-bc91-0bf174020210")
-		(property "Reference" "H4"
+		(property "Reference" "VCC-1"
 			(at 265.43 126.9999 90)
 			(effects
 				(font
@@ -3797,7 +3797,7 @@
 		(instances
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "H4")
+					(reference "VCC-1")
 					(unit 1)
 				)
 			)
@@ -3813,7 +3813,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1cab9543-55ad-4764-8ac4-8a8e3fabdd96")
-		(property "Reference" "H5"
+		(property "Reference" "GND1"
 			(at 44.45 99.06 90)
 			(effects
 				(font
@@ -3862,7 +3862,7 @@
 		(instances
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "H5")
+					(reference "GND1")
 					(unit 1)
 				)
 			)
@@ -4279,7 +4279,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3342001a-2b7d-4e46-b695-cecf24cb5218")
-		(property "Reference" "H1"
+		(property "Reference" "Rear-OUT1"
 			(at 267.97 77.47 90)
 			(effects
 				(font
@@ -4328,7 +4328,7 @@
 		(instances
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "H1")
+					(reference "Rear-OUT1")
 					(unit 1)
 				)
 			)
@@ -4589,7 +4589,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3a48d141-2605-4af0-b4a1-cac5d5bdb6d4")
-		(property "Reference" "MNT3"
+		(property "Reference" "MNT/GND3"
 			(at 62.23 140.97 90)
 			(effects
 				(font
@@ -4638,7 +4638,7 @@
 		(instances
 			(project "AudioAmp"
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "MNT3")
+					(reference "MNT/GND3")
 					(unit 1)
 				)
 			)
@@ -4980,7 +4980,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "52d26423-937a-4340-a674-165f1676e147")
-		(property "Reference" "H3"
+		(property "Reference" "VCC+1"
 			(at 265.43 49.5299 90)
 			(effects
 				(font
@@ -5031,7 +5031,7 @@
 		(instances
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "H3")
+					(reference "VCC+1")
 					(unit 1)
 				)
 			)
@@ -5191,7 +5191,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "59cd141e-75a4-4efd-9673-53d8662db5f6")
-		(property "Reference" "H2"
+		(property "Reference" "Tip-IN1"
 			(at 43.18 76.2 90)
 			(effects
 				(font
@@ -5240,7 +5240,7 @@
 		(instances
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "H2")
+					(reference "Tip-IN1")
 					(unit 1)
 				)
 			)
@@ -5492,7 +5492,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "636f3e44-7d9b-47bf-b393-3ab03b3a9395")
-		(property "Reference" "MNT1"
+		(property "Reference" "MNT/GND1"
 			(at 45.72 119.38 90)
 			(effects
 				(font
@@ -5541,7 +5541,7 @@
 		(instances
 			(project "AudioAmp"
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "MNT1")
+					(reference "MNT/GND1")
 					(unit 1)
 				)
 			)
@@ -5883,7 +5883,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "77aee07b-3328-4b7e-a618-f3aba36a47ca")
-		(property "Reference" "H9"
+		(property "Reference" "Rear-IN1"
 			(at 38.1 92.7099 90)
 			(effects
 				(font
@@ -5934,7 +5934,7 @@
 		(instances
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "H9")
+					(reference "Rear-IN1")
 					(unit 1)
 				)
 			)
@@ -6476,7 +6476,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "91a398b1-c86c-4501-bec7-f2b7c14f6377")
-		(property "Reference" "MNT2"
+		(property "Reference" "MNT/GND2"
 			(at 58.42 127 90)
 			(effects
 				(font
@@ -6525,7 +6525,7 @@
 		(instances
 			(project "AudioAmp"
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "MNT2")
+					(reference "MNT/GND2")
 					(unit 1)
 				)
 			)
@@ -7034,7 +7034,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b270a69e-83f5-4d2d-bf31-6964c7970c48")
-		(property "Reference" "H7"
+		(property "Reference" "GND2"
 			(at 269.24 100.3299 90)
 			(effects
 				(font
@@ -7085,7 +7085,7 @@
 		(instances
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "H7")
+					(reference "GND2")
 					(unit 1)
 				)
 			)
@@ -7246,7 +7246,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5fcf1e8-3a40-4805-9ff0-9667ffc3557e")
-		(property "Reference" "J2"
+		(property "Reference" "Jack-OUT1"
 			(at 284.48 81.2799 0)
 			(effects
 				(font
@@ -7321,7 +7321,7 @@
 		(instances
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "J2")
+					(reference "Jack-OUT1")
 					(unit 1)
 				)
 			)
@@ -7481,7 +7481,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d77d8736-0b42-45cb-8111-c98ec5fed94c")
-		(property "Reference" "J1"
+		(property "Reference" "Jack-IN1"
 			(at 18.415 105.41 0)
 			(effects
 				(font
@@ -7554,7 +7554,7 @@
 		(instances
 			(project ""
 				(path "/c5a26e6d-aabf-49ab-a44e-c2ec87fd373d"
-					(reference "J1")
+					(reference "Jack-IN1")
 					(unit 1)
 				)
 			)
