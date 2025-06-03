@@ -7,7 +7,7 @@
 	(title_block
 		(title "Audio Amp")
 		(date "2025-04-29")
-		(rev "1.1")
+		(rev "1.2")
 		(company "Lucca Kuvecke, Marcel Tanneberger")
 	)
 	(lib_symbols
@@ -2058,6 +2058,12 @@
 		(uuid "4c2f6a4f-3b6c-44e5-8e8e-cb6c11f720c4")
 	)
 	(junction
+		(at 186.69 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ff93d17-88c0-44cd-a9ef-3552907def1c")
+	)
+	(junction
 		(at 177.8 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2421,16 +2427,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 111.76) (xy 175.26 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "112e26ac-4300-4123-a90a-55ab4786d8c8")
-	)
-	(wire
-		(pts
 			(xy 58.42 99.06) (xy 58.42 105.41)
 		)
 		(stroke
@@ -2648,6 +2644,16 @@
 			(type default)
 		)
 		(uuid "3757c66e-4087-44e9-8768-19b92e84ae7b")
+	)
+	(wire
+		(pts
+			(xy 175.26 120.65) (xy 175.26 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38115062-41a9-4a6e-86d9-5980d5b64cd5")
 	)
 	(wire
 		(pts
@@ -3021,6 +3027,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 118.11) (xy 186.69 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91374db1-8161-4e5e-a78c-6d7b1813bd21")
+	)
+	(wire
+		(pts
 			(xy 93.98 100.33) (xy 93.98 105.41)
 		)
 		(stroke
@@ -3171,7 +3187,17 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 116.84) (xy 186.69 120.65)
+			(xy 175.26 118.11) (xy 186.69 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc3b466c-67e8-47ab-97f0-612e198583cd")
+	)
+	(wire
+		(pts
+			(xy 186.69 116.84) (xy 186.69 118.11)
 		)
 		(stroke
 			(width 0)
